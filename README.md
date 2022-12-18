@@ -21,8 +21,8 @@ CouponSystemStage2  (Java version) : (It uses mysql so be sure to download it)
 ### Usernames, Emails, and Passwords:
 
 #### Admin:
-email: admin@admin.com
-password: admin123
+- email: admin@admin.com
+- password: admin123
 
 #### Companies and Customers:
 Look them up in the SQL database
