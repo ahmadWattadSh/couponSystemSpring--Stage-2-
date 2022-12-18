@@ -2,7 +2,7 @@
 
 This project was created by Wattad Oday and Wattad Ahmad
 This is the second stage of the project. We added the spring boot section with controllers without frontend
-
+(To use the application, disable the controllers by disabling the TomCat)
 # FOR USER:
 
 
